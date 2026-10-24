@@ -1,0 +1,44 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded Crimson Brand Container -->
+  <rect width="48" height="48" rx="11" fill="#800E13" />
+  
+  <!-- Outer Head Silhouette & Ear Tufts -->
+  <path
+    d="M7 11C9 14.5 13 16 16.5 15.5C18.8 15.2 21.5 14 24 14C26.5 14 29.2 15.2 31.5 15.5C35 16 39 14.5 41 11C39.5 17 38.5 21 39 26C39.5 31.5 37 38 31 41.5C28.5 43 26.2 43.5 24 43.5C21.8 43.5 19.5 43 17 41.5C11 38 8.5 31.5 9 26C9.5 21 8.5 17 7 11Z"
+    stroke="#FFFFFF"
+    stroke-width="2.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Crown Arch -->
+  <path
+    d="M12 14.5C15.5 18 19.5 18.5 24 18.5C28.5 18.5 32.5 18 36 14.5"
+    stroke="#FFFFFF"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+
+  <!-- Sharp Angular Eyebrows (V-Brow) -->
+  <path
+    d="M11 20.5L24 25.5L37 20.5"
+    stroke="#FFFFFF"
+    stroke-width="2.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Left Eye Aperture -->
+  <circle cx="17.5" cy="28" r="6.5" stroke="#FFFFFF" stroke-width="2.2" />
+  <circle cx="17.5" cy="27.5" r="2.8" fill="#F9C0C3" />
+
+  <!-- Right Eye Aperture -->
+  <circle cx="30.5" cy="28" r="6.5" stroke="#FFFFFF" stroke-width="2.2" />
+  <circle cx="30.5" cy="27.5" r="2.8" fill="#F9C0C3" />
+
+  <!-- Sharp Triangular Beak -->
+  <path d="M21.5 26.5L24 33.5L26.5 26.5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" />
+
+  <!-- Base Perch Chevron -->
+  <path d="M20 37.5L24 41L28 37.5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

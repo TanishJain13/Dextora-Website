@@ -1,0 +1,80 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Ear Tufts & Silhouette -->
+  <path
+    d="M18 24C24 32 34 35 44 34C51 33.2 56 31 60 31C64 31 69 33.2 76 34C86 35 96 32 102 24C98 38 96 46 98 58C100 72 94 88 80 97C74 101 67 103 60 104C53 103 46 101 40 97C26 88 20 72 22 58C24 46 22 38 18 24Z"
+    stroke="#800E13"
+    stroke-width="3.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Crown Arch Lines -->
+  <path
+    d="M30 32C38 40 48 41 60 41C72 41 82 40 90 32"
+    stroke="#800E13"
+    stroke-width="2.4"
+    stroke-linecap="round"
+  />
+  <path
+    d="M24 26C34 32 46 36 60 36C74 36 86 32 96 26"
+    stroke="#800E13"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+
+  <!-- Furrowed Brow / Sharp Eyebrow Structure -->
+  <path
+    d="M25 43L60 55L95 43"
+    stroke="#800E13"
+    stroke-width="3.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M30 46L60 57.5L90 46"
+    stroke="#800E13"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- LEFT EYE COMPLEX (Concentric Aperture Radar Geometry) -->
+  <circle cx="44" cy="60" r="15" stroke="#800E13" stroke-width="3" />
+  <circle cx="44" cy="60" r="10" stroke="#800E13" stroke-width="2" />
+  <line x1="44" y1="45" x2="44" y2="50" stroke="#800E13" stroke-width="2" />
+  <line x1="44" y1="70" x2="44" y2="75" stroke="#800E13" stroke-width="2" />
+  <line x1="29" y1="60" x2="34" y2="60" stroke="#800E13" stroke-width="2" />
+  <line x1="54" y1="60" x2="59" y2="60" stroke="#800E13" stroke-width="2" />
+  <line x1="34" y1="50" x2="37" y2="53" stroke="#800E13" stroke-width="1.8" />
+  <line x1="51" y1="67" x2="54" y2="70" stroke="#800E13" stroke-width="1.8" />
+  <circle cx="44" cy="59" r="6" fill="#AD2831" />
+
+  <!-- RIGHT EYE COMPLEX (Concentric Aperture Radar Geometry) -->
+  <circle cx="76" cy="60" r="15" stroke="#800E13" stroke-width="3" />
+  <circle cx="76" cy="60" r="10" stroke="#800E13" stroke-width="2" />
+  <line x1="76" y1="45" x2="76" y2="50" stroke="#800E13" stroke-width="2" />
+  <line x1="76" y1="70" x2="76" y2="75" stroke="#800E13" stroke-width="2" />
+  <line x1="61" y1="60" x2="66" y2="60" stroke="#800E13" stroke-width="2" />
+  <line x1="86" y1="60" x2="91" y2="60" stroke="#800E13" stroke-width="2" />
+  <line x1="83" y1="53" x2="86" y2="50" stroke="#800E13" stroke-width="1.8" />
+  <line x1="66" y1="70" x2="69" y2="67" stroke="#800E13" stroke-width="1.8" />
+  <circle cx="76" cy="59" r="6" fill="#AD2831" />
+
+  <!-- Sharp Triangular Beak -->
+  <path d="M55 57L60 74L65 57" fill="#800E13" stroke="#800E13" stroke-width="2" stroke-linejoin="round" />
+
+  <!-- Geometric Chest Chevron & Facets -->
+  <path d="M48 76L60 84L72 76" stroke="#800E13" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M42 83L60 94L78 83" stroke="#800E13" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="60" y1="74" x2="60" y2="104" stroke="#800E13" stroke-width="2.4" stroke-linecap="round" />
+
+  <!-- Wing Feather Contours -->
+  <path d="M24 64C28 76 34 88 44 95" stroke="#800E13" stroke-width="2.2" stroke-linecap="round" />
+  <path d="M29 76C34 85 40 92 48 98" stroke="#800E13" stroke-width="2" stroke-linecap="round" />
+  <path d="M96 64C92 76 86 88 76 95" stroke="#800E13" stroke-width="2.2" stroke-linecap="round" />
+  <path d="M91 76C86 85 80 92 72 98" stroke="#800E13" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Perched Talons -->
+  <path d="M44 98L42 104M47 99L47 106M50 99L52 105" stroke="#800E13" stroke-width="2.4" stroke-linecap="round" />
+  <path d="M76 98L78 104M73 99L73 106M70 99L68 105" stroke="#800E13" stroke-width="2.4" stroke-linecap="round" />
+</svg>
