@@ -309,8 +309,20 @@ export default function DocsPage() {
       </div>
 
       {/* Footer */}
-      <footer className="border-t border-[#EAE5E3] py-8 text-center text-xs font-mono text-[#250902]/50">
-        &copy; {new Date().getFullYear()} Dextora Open Source. Licensed under MIT.
+      <footer className="border-t border-[#EAE5E3] py-8 text-center text-xs font-mono text-[#250902]/60">
+        <span>&copy; {new Date().getFullYear()} Dextora Open Source. Licensed under MIT.</span>
+        <span className="mx-2">•</span>
+        <span>
+          Made by{" "}
+          <a
+            href="https://jaintanish.in"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#800E13] font-semibold hover:underline transition-colors"
+          >
+            Tanish Jain
+          </a>
+        </span>
       </footer>
     </div>
   );

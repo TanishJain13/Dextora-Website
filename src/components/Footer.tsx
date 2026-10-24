@@ -143,8 +143,20 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-[#EAE5E3] flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-[#250902]/60">
-          <div>
-            &copy; {new Date().getFullYear()} Dextora Open Source. Licensed under MIT.
+          <div className="flex flex-wrap items-center gap-2">
+            <span>&copy; {new Date().getFullYear()} Dextora Open Source. Licensed under MIT.</span>
+            <span>•</span>
+            <span>
+              Made by{" "}
+              <a
+                href="https://jaintanish.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#800E13] font-semibold hover:underline transition-colors"
+              >
+                Tanish Jain
+              </a>
+            </span>
           </div>
           <div className="flex items-center gap-4">
             <a
